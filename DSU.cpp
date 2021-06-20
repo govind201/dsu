@@ -40,8 +40,6 @@ struct DSU {
 
 
 int main() {
-	DSU dsu;
-	dsu.init(H*W);
 	cout << "Hello cout ";
 		return 0;
 }
