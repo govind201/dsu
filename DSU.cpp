@@ -28,7 +28,6 @@ struct DSU {
 		} 
 		members[b].clear();
 	}
-	
 	int get_id(int row, int col, int W) {
 		return row*W + col;
 	}
@@ -40,6 +39,6 @@ struct DSU {
 
 
 int main() {
-	cout << "Hello cout ";
+	cout << "Compiles succesfully";
 		return 0;
 }
